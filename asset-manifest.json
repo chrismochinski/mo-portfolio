@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/static/css/main.b1677329.chunk.css",
-    "main.js": "/static/js/main.d4ed4bff.chunk.js",
-    "main.js.map": "/static/js/main.d4ed4bff.chunk.js.map",
+    "main.js": "/static/js/main.1e4c896b.chunk.js",
+    "main.js.map": "/static/js/main.1e4c896b.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.5e7091c3.js",
     "runtime-main.js.map": "/static/js/runtime-main.5e7091c3.js.map",
     "static/js/2.46f24164.chunk.js": "/static/js/2.46f24164.chunk.js",
@@ -23,7 +23,6 @@
     "static/media/magicBeans2.1456d783.gif": "/static/media/magicBeans2.1456d783.gif",
     "static/media/materialUiLogo.0c1d28c2.png": "/static/media/materialUiLogo.0c1d28c2.png",
     "static/media/nodeLogo.228e3178.png": "/static/media/nodeLogo.228e3178.png",
-    "static/media/old-git-pic.4694fec9.png": "/static/media/old-git-pic.4694fec9.png",
     "static/media/phonePhoto.6a1c8664.jpg": "/static/media/phonePhoto.6a1c8664.jpg",
     "static/media/reactIcon.9196c3ad.png": "/static/media/reactIcon.9196c3ad.png",
     "static/media/toDoPreview.d1ba56ba.gif": "/static/media/toDoPreview.d1ba56ba.gif",
@@ -33,6 +32,6 @@
     "static/js/runtime-main.5e7091c3.js",
     "static/js/2.46f24164.chunk.js",
     "static/css/main.b1677329.chunk.css",
-    "static/js/main.d4ed4bff.chunk.js"
+    "static/js/main.1e4c896b.chunk.js"
   ]
 }
